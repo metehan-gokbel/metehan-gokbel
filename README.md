@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software engineer with a primary focus on Android development, backed by two years of professional experience in software development. I am proficient in Java and Kotlin, utilizing object-oriented programming principles. 
+I am a software engineer with a primary focus on Android development, backed by two years of professional experience in software development. I am proficient in Java, Kotlin, and Dart, utilizing object-oriented programming principles. 
 
 
 ## 🌐 Socials:
